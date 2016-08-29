@@ -1,4 +1,8 @@
-GraphicsLoC-OS
+Graphics for the Linux Distribution/Remix Called Linux On Ciber 
 ==============
 
-this is the repository for all the themes icons and graphics of LoC-OS Linux Remix
+HOW? 
+Has divided in to diferent places.
+* Main Graphics (menubars, wallpapers, any other graphic)
+* Apps Graphics (apps logos,apps art, etc)
+* Organization Graphics (Logo, Teams Logo, etc) 
